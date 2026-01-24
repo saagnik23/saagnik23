@@ -18,10 +18,10 @@ Currently focusing on strengthening my fundamentals while working on real-world 
 ### 🌐 Connect With Me
 
 <p align="row">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/saagnik-dey-99038332b" target="_blank">
+  <a href="https://www.linkedin.com/in/saagnik-dey-99038332b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a><br/>
-  <a href="https://github.com/https://github.com/saagnik23" target="_blank">
+  <a href="https://github.com/saagnik23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a><br/>
   <a href="https://instagram.com/your-instagram-handle" target="_blank">
