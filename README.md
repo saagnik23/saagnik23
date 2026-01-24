@@ -36,9 +36,6 @@ Currently focusing on strengthening my fundamentals while working on real-world 
 </p>
 
 ---
-
-> *Building today, learning for tomorrow 🚀*
-
 ---
 
 ## ✨ Philosophy
