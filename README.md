@@ -17,7 +17,7 @@ Currently focusing on strengthening my fundamentals while working on real-world 
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="row">
   <a href="https://www.linkedin.com/in/www.linkedin.com/in/saagnik-dey-99038332b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a><br/>
