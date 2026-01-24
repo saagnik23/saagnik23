@@ -10,7 +10,7 @@ I enjoy building projects, exploring new technologies, and learning by doing.
 ## 🚀 About Me
 
 - 🎓 Student focused on core computer science fundamentals  
-- 💡 Interested in **Web Development, Python, Generative AI, and Automation**  
+- 💡 Interested in **Machine Learning, Python, Generative AI, and Automation**  
 - 🛠️ Love building real-world projects and browser extensions  
 - 🌱 Constantly learning and improving  
 - 🤝 Open to open-source collaboration  
