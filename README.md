@@ -1,5 +1,18 @@
 # 💫 About Me:
-What I’m Into<br>- Python<br>- Open Source Contributing<br>- AI / ML<br>- Robotics<br>- AI Automations<br>- DBMS<br>- Still exploring new technologies<br><br>I am passionate about tech, AI, coding, and building things.<br>I love learning, experimenting, and exploring new domains in software and technology.
+
+<p>
+  I’m passionate about tech, AI, coding, and building things.<br>
+  I enjoy learning fast, experimenting often, and exploring what’s next.
+</p>
+
+<br>
+
+<p>
+  <b>currently into</b><br>
+  Python · Open Source Contributing · AI / ML · Robotics · AI Automations · DBMS
+</p>
+
+<br>
 
 
 ## 🌐 Socials:
