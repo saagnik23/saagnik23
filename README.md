@@ -61,16 +61,3 @@
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saagnik23&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagnik23&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
-</p>
-
----
-
-<p align="center">
-  <i>Learn deeply. Build cleanly. Keep evolving.</i>
-</p>
