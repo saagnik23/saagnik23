@@ -1,42 +1,18 @@
-<h3 align="center">Saagnik</h3>
+# 💫 About Me:
+What I’m Into<br>- Python<br>- Open Source Contributing<br>- AI / ML<br>- Robotics<br>- AI Automations<br>- DBMS<br>- Still exploring new technologies<br><br>I am passionate about tech, AI, coding, and building things.<br>I love learning, experimenting, and exploring new domains in software and technology.
 
-<p align="center">
-  <i>python • ai/ml • open source • robotics</i>
-</p>
 
-<p align="center">
-  I’m passionate about tech, AI, coding, and building things.<br>
-  I enjoy learning fast, experimenting often, and exploring what’s next.
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saagnik.me__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saagnikdey23s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saagnikdey23@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saagnik23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saagnik23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saagnik23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <b>currently into</b><br>
-  Python · Open Source Contributing · AI / ML · Robotics · AI Automations · DBMS
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=saagnik23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/saagnik23">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/saagnikdey23s">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/saagnik.me__">Instagram</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:saagnikdey23@gmail.com">Email</a>
-</p>
-
-<br>
-
-<p align="center">
-  <b>building / exploring</b><br>
-  clean projects, useful automations, and future-facing ideas in software.
-</p>
-
-<br>
-
-<p align="center">
-  <sub><i>stay curious, build well, and let the work speak.</i></sub>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
