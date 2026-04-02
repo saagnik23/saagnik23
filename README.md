@@ -47,7 +47,7 @@
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.linkedin.com/in/saagnik-dey-23s" target="_blank">
+  <a href="https://www.linkedin.com/in/saagnik-dey-23s" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="66" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
