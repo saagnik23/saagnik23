@@ -1,39 +1,42 @@
-<div align="center">
+<h3 align="center">Saagnik</h3>
 
-# Saagnik
+<p align="center">
+  <i>python • ai/ml • open source • robotics</i>
+</p>
 
-*Developer · Explorer · Builder*
+<p align="center">
+  I’m passionate about tech, AI, coding, and building things.<br>
+  I enjoy learning fast, experimenting often, and exploring what’s next.
+</p>
 
-Passionate about code, AI, and the things I haven't discovered yet.
+<br>
 
-</div>
+<p align="center">
+  <b>currently into</b><br>
+  Python · Open Source Contributing · AI / ML · Robotics · AI Automations · DBMS
+</p>
 
-&nbsp;
+<br>
 
-**What I work with**
-Python   ·   AI / ML   ·   Robotics   ·   Automations   ·   DBMS   ·   Open Source
+<p align="center">
+  <a href="https://github.com/saagnik23">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/saagnikdey23s">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/saagnik.me__">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:saagnikdey23@gmail.com">Email</a>
+</p>
 
-**What I'm doing**
+<br>
 
-→ Diving into open-source contributions and experimenting with AI systems.  
-→ Still figuring out what I want to build — and building it anyway.
+<p align="center">
+  <b>building / exploring</b><br>
+  clean projects, useful automations, and future-facing ideas in software.
+</p>
 
-&nbsp;
+<br>
 
-<div align="center">
-
-[GitHub](https://github.com/saagnik23) &nbsp;&nbsp;|&nbsp;&nbsp;
-[LinkedIn](https://linkedin.com/in/saagnikdey23s) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Instagram](https://instagram.com/saagnik.me__) &nbsp;&nbsp;|&nbsp;&nbsp;
-[Email](mailto:saagnikdey23@gmail.com)
-
-</div>
-
-&nbsp;
-
-<div align="center">
-<sub>⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</sub>
-
-*"The best way to understand something is to build it."*
-
-</div>
+<p align="center">
+  <sub><i>stay curious, build well, and let the work speak.</i></sub>
+</p>
