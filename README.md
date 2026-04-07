@@ -11,9 +11,9 @@
 ---
 
 ## ✨ About
-- Passionate about **tech, AI, coding, and building things**
-- Exploring **Generative AI, Robotics, DBMS, Cloud, and scalable software systems**
-- Focused on clean code, experimentation, and real-world projects
+- Passionate about **tech, AI, coding and building things**
+- Exploring **Generative AI, Robotics, DBMS, Cloud and scalable software systems**
+- Focused on clean code, experimentation and real-world projects
 
 ---
 
