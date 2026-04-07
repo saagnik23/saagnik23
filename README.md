@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 Saagnik this side</h1>
+<h1 align="center">Hey 👋, Saagnik this side</h1>
 
 <p align="center">
   💻 Python • 🤖 AI/ML • 🌱 Open Source • ⚙️ Robotics
