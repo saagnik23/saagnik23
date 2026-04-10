@@ -16,8 +16,8 @@
 |---------|-------|--------|
 | [Cal.com](https://github.com/calcom/cal.com) | ![stars](https://img.shields.io/github/stars/calcom/cal.com?style=social) | 🟢 Actively Contributing |
 
-> Actively contributing to production open source projects as part of my journey toward **ESOC 2025**
-
+> Actively contributing to production open source projects as part of my journey towards **ESOC 2025**
+> 
 ---
 
 ## ✨ About
