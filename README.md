@@ -14,10 +14,10 @@
 
 | Project | Stars | Status |
 |---------|-------|--------|
-| [Cal.com](https://github.com/calcom/cal.com) | ![stars](https://img.shields.io/github/stars/calcom/cal.com?style=social) | 🟢 Actively Contributing |
+| [FreeFlow](https://github.com/build-trust/freeflow) | ![GitHub Repo stars](https://img.shields.io/github/stars/build-trust/freeflow?style=for-the-badge&logo=github) |  🟢 Actively Contributing |
+| [Cal.com](https://github.com/calcom/cal.com) | ![GitHub Repo stars](https://img.shields.io/github/stars/calcom/cal.com?style=for-the-badge&logo=github) | 🟢 Actively Contributing |
 
-> Actively contributing to production open source projects as part of my journey towards **ESOC 2025**
-> 
+> Actively contributing to production open source projects as part of my journey towards **ESoC / GSoC-style programs**.
 ---
 
 ## ✨ About
