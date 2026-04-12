@@ -14,7 +14,7 @@
 
 | Project | Stars | Status |
 |---------|-------|--------|
-| [FreeFlow](https://github.com/build-trust/freeflow) | ![GitHub Repo stars](https://img.shields.io/github/stars/build-trust/freeflow?style=for-the-badge&logo=github) |  🟢 Actively Contributing |
+| [FreeFlow](https://github.com/build-trust/freeflow) | ![FreeFlow Stars](https://img.shields.io/badge/Stars-27-blue?style=for-the-badge&logo=github) | 🟢 Actively Contributing |
 | [Cal.com](https://github.com/calcom/cal.com) | ![GitHub Repo stars](https://img.shields.io/github/stars/calcom/cal.com?style=for-the-badge&logo=github) | 🟢 Actively Contributing |
 | [Skalesapp](https://github.com/skalesapp/skales) | ![GitHub Repo stars](https://img.shields.io/github/stars/skalesapp/skales?style=for-the-badge&logo=github) | 🟢 Actively Contributing |
 
