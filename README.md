@@ -12,13 +12,7 @@
 
 ## 🌱 Open Source Contributions
 
-| Project | Stars | Status |
-|---------|-------|--------|
-| [FreeFlow](https://github.com/build-trust/freeflow) | ![FreeFlow Stars](https://img.shields.io/badge/Stars-27-blue?style=for-the-badge&logo=github) | 🟢 Actively Contributing |
-| [Cal.com](https://github.com/calcom/cal.com) | ![GitHub Repo stars](https://img.shields.io/github/stars/calcom/cal.com?style=for-the-badge&logo=github) | 🟢 Actively Contributing |
-| [Skalesapp](https://github.com/skalesapp/skales) | ![GitHub Repo stars](https://img.shields.io/github/stars/skalesapp/skales?style=for-the-badge&logo=github) | 🟢 Actively Contributing |
-
-> Actively contributing to production open source projects as part of my journey towards **ESoC / GSoC-style programs**.
+> Actively contributing to production open source projects as part of my journey towards **ESoC / GSoC / GSSoC-style programs**.
 ---
 
 ## ✨ About
