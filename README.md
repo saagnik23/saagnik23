@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, Saagnik this side !</h1>
 
 <p align="center">
-  💻 Python • 🤖 AI/ML • 🌱 Open Source • ⚙️ Robotics
+  • 🤖 AI/ML • 🌱 Open Source • ⚙️ Automated Systems
 </p>
 
 <p align="center">
-  1st year BTech CSE student at NIAT building software, automations and AI-driven projects.
+  A CSE Major student at NIAT building software, automations and AI-driven projects.
 </p>
 
 ---
@@ -45,6 +45,26 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saagnik23&theme=aura&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saagnik23&theme=react-dark&hide_border=true" />
+
+</div>
 
 ---
 
